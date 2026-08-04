@@ -129,6 +129,24 @@ nginx
 apche
 httpd
 
+day-4
+DNS =Domain name server
+it keeps tracks of all the hostnames and ip addresses
+DNS Converts the hostnames and hostnames to ip address
+
+browser will talk to DNS
+browser will talk to local DNS
+Every system has DNS local dns path is /etc/host
+browser will check with local DNS 
+if it has ip it will give back
+now local dns will talk to root name servers
+browser require host name and ip address
+we will give host names
+hostnames will bee remembered by dns
+if the DNS doesnt have it will go for root name servers
+if the RNS Doest have the information it will go for Top level domains
+
+
 
 
 
