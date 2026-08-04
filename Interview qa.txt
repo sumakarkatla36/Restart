@@ -1,0 +1,13 @@
+what is application server ?
+the server where application is hosted is called application server
+
+What is database server ?
+the server where data is stored is called database server
+
+what is ip ?
+ip=internet protocol
+it is a unique identifer for a device the device can be client or server
+
+what is hostname ?
+name of the server 
+

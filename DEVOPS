@@ -1,0 +1,214 @@
+SDLC 
+1.PLANNING
+2.REQUIREMENT ANALYSIS
+3.DESIGN
+4.IMPLEMENT
+5.TEST
+6.DEPLOY
+7.MAINTAIN
+
+SDLC HAS THREE MODELS
+-----------------------
+1.WATERFALL MODEL code everything,test and deploy
+2.AGILE MODEL--> code test deploy every 2 weeks
+3.DEVOPS MODEL-->CONTINUOUS DEPLOYMENT code test deploy code test deploy
+
+
+DEVOPS LIFECYCLE
+------------------
+CONTINUOUS DEVELOPMENT
+CONTINUOUS TESTING
+CONTINUOUS DEPLOYMENT
+CONTINUOUS MONITORING
+CONTINUOUS INTEGRATION
+
+All the code is placed in git it is a central place for storing the code
+
+
+DAY-3
+------
+client server architecture
+
+client = which requestss a resource
+server = the one who responds to resource
+
+if the client and server are in the same network then only it will communicate each other
+
+network 
+---------
+wifi 
+router 
+cables
+modem
+blutooth
+
+devices can be a client or a server
+
+there are different types of client server architecture
+1.  1 tier architecture
+2.  2 tier architecture
+3.  3 tier architecture
+
+1 tier architecture
+-----------------------
+whatever we are doing in our laptop is called local host or local machine
+
+when client server are in the saame device then it is 1 tier architecture 
+it cannot be used by others so 1 tier we cannot be used or it can be dead
+
+client and server are in the same machine
+we will separate the client and server then it will be multitier
+
+2 tier architecture
+------------------------------
+there are two layers 
+1. client layers
+2. server layers
+
+server has 
+
+hardware
+operating system
+applications
+if we take any systems this is the same things that have
+
+evry application has a database in the backend
+few databases are
+mysql
+sql 
+oracle
+
+applications will connect to the database
+
+all this clients are connected to the server
+server will connected to the clients appliaction will responds to the clients 
+
+by using 2 tier architectuere there are several disadvantages
+1.there are capacity issues between application and databases it will effect the client
+
+2 tier architecture is not recommandable
+
+application should be in one server
+database should be in another server
+
+production environment is where the clients are directly connecting
+
+whenever a developer develops a code it will be done in dev environment
+then it will go for qa environment or test environment
+then it will go for pre prod environement
+then it will go for prod environement
+
+
+3 tier architecture
+---------------------------
+1.client server
+2.database server
+3.application server
+
+all the clients are connected to appliaction server
+application server will connect to database server
+
+
+
+
+if two machines communicate with each other using ip address 
+
+devices communicate with each other with ip adress and hostname
+ip=internet protocal 
+
+we need a webserver it will take the request and redirect to the application server
+
+keep the appliaction server private
+keep the database server private
+keep the webserver as public
+
+3 tier architectuere is good for production 
+
+example of webservers are 
+nginx
+apche
+httpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
