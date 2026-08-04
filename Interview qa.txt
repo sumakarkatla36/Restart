@@ -11,3 +11,6 @@ it is a unique identifer for a device the device can be client or server
 what is hostname ?
 name of the server 
 
+what is nameserver?
+which identifies the domain name
+

@@ -147,6 +147,59 @@ if the DNS doesnt have it will go for root name servers
 if the RNS Doest have the information it will go for Top level domains
 
 
+name servers will identifies the domain name 
+name server will take to the soa(start of authority)
+
+it will reach firewall the firewall stops the unauthorized access to the network
+
+firewall will allow or it will deney the access to the website 
+
+http=80/not a secure connection to the application
+https=443/secure connection to the application
+ssh=22/to connect to linux machines
+RDP==3389/connect to the windows machines
+
+how is the data is travelled in the network 
+-->the data will travelling in the network in the form of datapackets
+the datapackets contains information.
+whatever the protocols allowed in the firewall only that protocol is allowed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
