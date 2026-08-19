@@ -165,6 +165,36 @@ the datapackets contains information.
 whatever the protocols allowed in the firewall only that protocol is allowed
 
 
+Load balancer distribute the traffic to the servers 
+
+load balancer will follow round robbin method
+
+
+nslookup command is used to see the name of the website or ip address of the website
+
+
+Day-5
+----------------
+
+Day-9
+------------------
+aws is a group of services
+we can access AWS services through amazon Management Console
+
+VM's = Instances
+
+EC2-->Elastic compute cloud
+
+Ec2 is a AWS service that creates a virtual machine 
+
+Ec2 is a AWS service where we can Launch ec2 instances
+
+in infrastrutcure as service customers are responsible for Application data and OS
+
+EBS --> Elastic Bean stackk is used for easy and quick deployment
+it is used as Platform as a Service
+
+ 
 
 
 
