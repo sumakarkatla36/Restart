@@ -194,7 +194,59 @@ in infrastrutcure as service customers are responsible for Application data and 
 EBS --> Elastic Bean stackk is used for easy and quick deployment
 it is used as Platform as a Service
 
+Day-10
+----------
+ -->increasing or decreasing the servers according to the Load is called as elasticity
  
+ -->Elasticity is shaort term
+ 
+ -->Elastiicity can be achieved in aws using Auto-Scaling
+ 
+ Auto-Scaling=increasing and Decreasing of the servers are called Autoscaling
+ 
+Elasticity is called Horizontal Scaling
+
+use the same capacity of the servers in auto-scaling
+
+Scalability
+------------------------------------
+if you increasing the capcity of the server then it is called as Scalanility
+
+if you incraese the no of servers then it is called as Elasticity
+
+Scalability =  Scaleup/scale down
+
+Scalability is also called as vertical Scaling
+
+Scalability is Long Term
+
+Scalability can be achieved in AWS By changing the instance Type
+
+Instance type = Memory + CPU
+
+High Availability
+--------------------------
+the period of time the service availlable to the customer is called High Availability
+
+the period of time the service is Not Available to the customer is called Downtime
+
+
+Availability is measured in percentage
+
+Redundancy = Duplicate/having the same application on different servers
+
+Load balancer will health check to the appliaction not server
+
+Monittoring = Load balancer will cheeck if the application is reachable or not using health checks
+
+Failover = if one server goes down ,other servers will take the requests sent by LB
+
+
+
+
+
+
+
 
 
 
