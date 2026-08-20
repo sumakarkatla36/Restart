@@ -241,6 +241,29 @@ Monittoring = Load balancer will cheeck if the application is reachable or not u
 
 Failover = if one server goes down ,other servers will take the requests sent by LB
 
+Day-11
+-------------------------------------
+ Regions and Availabilty zzones
+ 
+AWS has global infrastrutcure
+
+Region is a place where AWS Has its infrastructure
+
+A region has multiple Datacenters
+
+A region has multiple AZ's
+
+Servers = instances
+
+servers/instances are placed in AZ's
+
+AZ's are sync with each other (network),not data
+
+best practice is to distribute the instances across multiple  AZ'S 
+
+Regions and availability zones
+
+Region = its a geo graphical Area,EX AWS-Region 
 
 
 
